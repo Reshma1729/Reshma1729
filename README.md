@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Frontend Web development, UI design**
+- 💬 Ask me about **Frontend Web development, UI designing **
 
 - 📫 How to reach me **reshmakumar2917@gmail.com**
 
