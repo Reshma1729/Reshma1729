@@ -1,7 +1,6 @@
-![MasterHead](https://www.techaheadcorp.com/wp-content/uploads/2021/01/11trendsblog-1.gif)
 <h1 align="center">Hi 👋, I'm Reshma Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="400" alt="coding" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
+<img align="right" width="400" alt="coding" src="https://www.techaheadcorp.com/wp-content/uploads/2021/01/11trendsblog-1.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reshma1729&label=Profile%20views&color=0e75b6&style=flat" alt="reshma1729" /> </p>
 
 - 🌱 I’m currently learning **React**
