@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Reshma Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="350" alt="coding" src="https://www.techaheadcorp.com/wp-content/uploads/2021/01/11trendsblog-1.gif" >
+<img align="right" width="300" alt="coding" src="https://www.techaheadcorp.com/wp-content/uploads/2021/01/11trendsblog-1.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reshma1729&label=Profile%20views&color=0e75b6&style=flat" alt="reshma1729" /> </p>
 
 - 🌱 I’m currently learning **React JS and Figma**
@@ -14,7 +14,6 @@
 <a href="https://linkedin.com/in/reshma-k-54a722226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reshma-k-54a722226" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/reshma_1729" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="reshma_1729" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/reshmakumar2917" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="reshmakumar2917" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/resh_rk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="resh_rk" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/reshmakumar2917" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="reshmakumar2917" height="30" width="40" /></a>
 </p>
 
