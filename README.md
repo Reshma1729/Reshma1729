@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Reshma Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="350" height="200 alt="coding" src="https://www.techaheadcorp.com/wp-content/uploads/2021/01/11trendsblog-1.gif" >
+<img align="right" width="330" height="200 alt="coding" src="https://www.techaheadcorp.com/wp-content/uploads/2021/01/11trendsblog-1.gif" >
 
 - 🌱 I’m currently learning **React JS and Figma**
 
