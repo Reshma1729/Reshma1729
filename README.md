@@ -4,7 +4,7 @@
   
 - 🌱 I’m currently working with **Vue JS and Laravel** and learning **React JS**
 
-- 💬 Ask me about **Frontend Web development, UI design**
+- 💬 Ask me about **Fullstack Web development**
 
 - 📫 How to reach me **reshmakumar2917@gmail.com**
 
