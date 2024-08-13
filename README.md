@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Reshma Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="330" height="200 alt="coding" src="https://www.techaheadcorp.com/wp-content/uploads/2021/01/11trendsblog-1.gif" >
-
-- 🌱 I’m currently learning **React JS**
   
-- 🌱 I’m currently working in **Vue JS and Laravel**
+- 🌱 I’m currently working with **Vue JS and Laravel** and learning **React JS**
 
 - 💬 Ask me about **Frontend Web development, UI design**
 
